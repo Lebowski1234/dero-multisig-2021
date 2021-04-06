@@ -40,7 +40,7 @@ curl --request POST --data-binary @multisig.bas http://127.0.0.1:40403/install_s
 
 The Dero HE (testnet) daemon and wallet must both be running first. For a more complete guide, check out the official Dero documentation:
 
-[https://github.com/deroproject/derohe/tree/main/guide]https://github.com/deroproject/derohe/tree/main/guide
+[https://github.com/deroproject/derohe/tree/main/guide](https://github.com/deroproject/derohe/tree/main/guide)
 
 
 
