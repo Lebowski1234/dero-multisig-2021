@@ -4,7 +4,7 @@
 
 This smart contract was originally written for the Dero Stargate Smart Contract competition in 2019. Re-released in 2021 for the dARCH — Decentralized Architecture Competition Series - Event 0: [https://forum.dero.io/t/darch-decentralized-architecture-competition-series/1318](https://forum.dero.io/t/darch-decentralized-architecture-competition-series/1318)
 
-![screenshot](https://github.com/Lebowski1234/dero-multisig-2021/raw/master/screenshot.png)
+![screenshot](https://github.com/Lebowski1234/dero-multisig-2021/blob/bfc308d6532e831f65ebe7ac445350f1bc5861ec/screenshot.png)
 
 ##Disclaimer
 
