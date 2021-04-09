@@ -1,7 +1,5 @@
 # Multi-Signature Wallet - 2021 
 
-# UNDER CONSTRUCTION - FINAL CODE WILL BE UPLOADED BEFORE THE 10TH APRIL
-
 This smart contract was originally written for the Dero Stargate Smart Contract competition in 2019. Re-released in 2021 for the dARCH — Decentralized Architecture Competition Series - Event 0: [https://forum.dero.io/t/darch-decentralized-architecture-competition-series/1318](https://forum.dero.io/t/darch-decentralized-architecture-competition-series/1318)
 
 ![screenshot](https://github.com/Lebowski1234/dero-multisig-2021/blob/bfc308d6532e831f65ebe7ac445350f1bc5861ec/screenshot.png)
@@ -46,10 +44,16 @@ The Dero HE (testnet) daemon and wallet must both be running first. For a more c
 
 ## User Interface
 
-The UI is written in Go and must be compiled before use. This is not covered here (plenty of beginner guides available elsewhere). The UI has a single dependancy:
+The UI is written in Go and must be compiled before use. This is not covered here (plenty of beginner guides available elsewhere). 
 
 ```
-go get -u github.com/dixonwille/wmenu
+go get github.com/Lebowski1234/dero-multisig-2021
+```
+
+The UI has a single dependancy:
+
+```
+go get github.com/dixonwille/wmenu
 ```
 
 Note: All development was done on Windows 10. I have not had a chance to test on Linux yet, although there is no reason why it shouldn't work. 
